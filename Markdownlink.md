@@ -107,7 +107,9 @@ The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUT
 
 [Data Science Specialization](http://datasciencespecialization.github.io/),
 
-[Introduction to Computer, Program and Programming](https://github.com/gangchen/CUHK-I2P).
+[Introduction to Computer, Program and Programming](https://github.com/gangchen/CUHK-I2P),
+
+[Code School](https://www.codeschool.com/paths/git).
 
 
 
