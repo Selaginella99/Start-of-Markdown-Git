@@ -66,11 +66,13 @@ Biological application: [Bioconductor](http://www.bioconductor.org/);
 
 Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools);
 
-Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/),
+Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/).
 
 Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://devcheatsheet.com/tag/r/).
 
 [Swirl](http://swirlstats.com/students.html): learn R interactively from within the R console.
+
+[Wikibook](http://en.wikibooks.org/wiki/R_Programming) forR programming, [Google's R Style Guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml).
 
 ## Text Patterns for Search and Replace
 
