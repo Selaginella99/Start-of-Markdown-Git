@@ -93,6 +93,7 @@ Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://dev
 
 The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUTORIAL/1+Introduction), reference book [Visual Insights: A Practical Guide to Making Sense of Data](http://cns.iu.edu/ivmoocbook14.html), [training slides](http://cns.iu.edu/docs/presentations/2013-borner-visualinsights-cs10k.pdf), [MOOC course](https://iu.instructure.com/courses/1422858).
 
+[Cytoscape](http://www.cytoscape.org/) is is an open source software [platform](https://github.com/cytoscape) for visualizing complex networks and integrating these with any type of attribute data.
 
 ## Data, software and coding sharing
 
@@ -119,4 +120,4 @@ The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUT
 
 
 
->Feb 5th, 2015
+>Feb 20th, 2015
