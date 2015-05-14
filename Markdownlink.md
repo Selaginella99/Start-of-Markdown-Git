@@ -68,7 +68,7 @@ Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools);
 
 Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/),
 
-Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://devcheatsheet.com/tag/r/).
+Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://devcheatsheet.com/tag/r/), [RDataMining.com](http://www.rdatamining.com/resources/onlinedocs): R and Data Mining, [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham.
 
 [Swirl](http://swirlstats.com/students.html): learn R interactively from within the R console.
 
@@ -119,4 +119,4 @@ The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUT
 
 
 
->Feb 5th, 2015
+>May 15th, 2015
