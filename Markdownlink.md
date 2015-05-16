@@ -87,11 +87,13 @@ Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://dev
 
 ## Data visualization
 
-[Gephi](http://gephi.github.io/), [Gephi - git](https://github.com/gephi/gephi);
+[Gephi](http://gephi.github.io/), [Gephi - git](https://github.com/gephi/gephi), [Gephi 中文教程](https://www.udemy.com/gephi/#/);
 
-[Gephi 中文教程](https://www.udemy.com/gephi/#/);
+The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUTORIAL/1+Introduction), reference book [Visual Insights: A Practical Guide to Making Sense of Data](http://cns.iu.edu/ivmoocbook14.html), [training slides](http://cns.iu.edu/docs/presentations/2013-borner-visualinsights-cs10k.pdf), [MOOC course](https://iu.instructure.com/courses/1422858); 
 
-The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUTORIAL/1+Introduction), reference book [Visual Insights: A Practical Guide to Making Sense of Data](http://cns.iu.edu/ivmoocbook14.html), [training slides](http://cns.iu.edu/docs/presentations/2013-borner-visualinsights-cs10k.pdf), [MOOC course](https://iu.instructure.com/courses/1422858).
+Xiqiao [visualization](http://blog.xiqiao.info/category/visualization);
+
+Q & A from [zhihu](http://www.zhihu.com/question/19929609), [poster](http://www.zhihu.com/question/22014621), [sup](http://ce.sysu.edu.cn/hope/Item.aspx?id=69149).
 
 
 ## Data, software and coding sharing
@@ -119,4 +121,4 @@ The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUT
 
 
 
->Feb 5th, 2015
+>May 16th, 2015
