@@ -68,11 +68,16 @@ Biological application: [Bioconductor](http://www.bioconductor.org/);
 
 Build a R packages: [Rtools](http://cran.r-project.org/bin/windows/Rtools);
 
-Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/),
+Shiny with Rstudio: [Teach yourself Shiny](http://shiny.rstudio.com/tutorial/).
+
 
 Technical cheat sheets and quick reference cards [Cheat Sheets for R](http://devcheatsheet.com/tag/r/).
 
 [Swirl](http://swirlstats.com/students.html): learn R interactively from within the R console.
+
+[RDataMining.com](http://www.rdatamining.com/resources/onlinedocs): R and Data Mining, [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham.
+
+[Wikibook](http://en.wikibooks.org/wiki/R_Programming) for R programming, [Google's R Style Guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml).
 
 [R和Python的相遇](http://nbviewer.ipython.org/gist/xccds/d692e468e21aeca6748a) from [xccd](http://xccds.github.io/archive.html).
 
@@ -115,10 +120,11 @@ The Science of Science (Sci2) Tool [Sci2](http://wiki.cns.iu.edu/display/SCI2TUT
 
 [Data Science Specialization](http://datasciencespecialization.github.io/),
 
+[Code School](https://www.codeschool.com/paths/git),
+
 [Introduction to Computer, Program and Programming](https://github.com/gangchen/CUHK-I2P),
 
 [PH525.1 Course in bioinformatics](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info), book [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/), [data](https://github.com/genomicsclass/labs).
 
 
-
->Feb 10th, 2015
+>May 16, 2015
